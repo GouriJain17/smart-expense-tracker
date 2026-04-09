@@ -39,9 +39,9 @@ The **Smart Expense Tracker** is a Python-based command-line application that he
 ##  How to Run the Project
 
 ### 1. Install Dependencies
-pip install matplotlib
+`pip install matplotlib`
 
 ### 2. Run the Program
-python expense_tracker.py
+`python expense_tracker.py`
 
 ---
